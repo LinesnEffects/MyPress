@@ -170,3 +170,5 @@ const posts: Post[] = [
 ];
 
 export default posts;
+export const runtime = "edge";
+
